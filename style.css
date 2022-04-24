@@ -1,0 +1,43 @@
+h1 {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+h2 {
+    color: yellow;
+    background-color: blue;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    align-items: center;
+    height: 500px;
+    width: auto;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+
+li {
+    /* list-style: none; */
+    margin: 10px;
+}
+
+.menu {
+    background-color: aquamarine;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+p {
+    margin-left: 40px;
+}
